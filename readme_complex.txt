@@ -1,4 +1,4 @@
-Hi. Here are two small tools for visualizing complex functions, f:C->C. I made them to understand stuff like branch cuts and branch points better.
+These are two small tools for visualizing complex functions, f:C->C. I made them to understand stuff like branch cuts and branch points better.
 
 DomainColoring.py (Command line): 
 The output of a complex function at any point in the complex plane is represented by a colour.
@@ -15,5 +15,3 @@ Two canvases are shown on screen, for the domain and image space.
 The function to plot can be specified in the window itself (from a textbox). You can choose between a f:C->C or a f:R^2->R^2 definition for the function.
 You can click and drag your cursor in the domain space canvas. Let the position of your cursor be z. Then a dot will appear in the image space canvas at f(z), and will move appropriately as your cursor moves.
 The scale/zoom can also be adjusted for either canvas.
-
-Thank you!
